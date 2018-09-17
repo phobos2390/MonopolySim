@@ -1,0 +1,9 @@
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\bin\Debug\netcoreapp1.1\MonopolySim.deps.json
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\bin\Debug\netcoreapp1.1\MonopolySim.runtimeconfig.json
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\bin\Debug\netcoreapp1.1\MonopolySim.runtimeconfig.dev.json
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\bin\Debug\netcoreapp1.1\MonopolySim.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\bin\Debug\netcoreapp1.1\MonopolySim.pdb
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\obj\Debug\netcoreapp1.1\MonopolySim.csprojResolveAssemblyReference.cache
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\obj\Debug\netcoreapp1.1\MonopolySim.AssemblyInfo.cs
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\obj\Debug\netcoreapp1.1\MonopolySim.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\MonopolySim\MonopolySim\obj\Debug\netcoreapp1.1\MonopolySim.pdb
